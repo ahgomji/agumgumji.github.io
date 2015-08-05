@@ -39,5 +39,6 @@ nav a:visited{
 
 nav {
    position: fixed;
+   left: 20px;
    top: 25px;
 }
