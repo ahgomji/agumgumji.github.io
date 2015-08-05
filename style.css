@@ -1,1 +1,23 @@
 
+   body {
+    background-color: wheat;
+    color:grey;
+    font-family:  font-family: 'Bree Serif', serif;
+    background-image: url(http://briansturges.com/wp-content/uploads/2014/09/1920x1440-light-green-website-plain-background.jpg);
+    background-size: cover;
+  margin: 0;
+   }
+  
+  html {
+    margin: 0 auto 0;
+    width: 400px;
+  }
+  
+   h1 {
+    color:darkred;
+    font-family: 'Indie Flower', cursive;;
+   }
+   
+   #logo {
+     border:0;
+   }
