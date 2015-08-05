@@ -40,6 +40,6 @@ nav a:visited{
 nav {
    position: fixed;
    top: 25px;
-   left:50px;
+   center:50px;
    
 }
