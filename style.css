@@ -38,8 +38,8 @@ nav a:visited{
 }
 
 nav {
-   position: absolute;
-   top: 50px;
+   position: fixed;
+   top: 25px;
    left:50px;
    
 }
