@@ -36,3 +36,10 @@ nav a{
 nav a:visited{
    color: #FFF;
 }
+
+nav {
+   position: absolute;
+   top: 0px;
+   left:0px;
+   
+}
