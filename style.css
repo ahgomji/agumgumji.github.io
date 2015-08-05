@@ -27,5 +27,12 @@ a {
 }
 
 nav a{
-   color: white;
+   color: #FFF;
+   text-decoration: none;
+   background-color:#F00;
+   border-radius: 0px;
+}
+
+nav a:visited{
+   color: #FFF;
 }
