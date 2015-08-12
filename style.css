@@ -49,4 +49,11 @@ h3 {
 
 p {
    background-color:lightblue;
+   
+}
+
+img {
+  border: 1px solid red;
+  display: block;
+  height: 50px;
 }
