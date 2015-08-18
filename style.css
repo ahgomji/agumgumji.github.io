@@ -80,3 +80,7 @@ p {
     margin-right: 450px;
     background-color: rgba(150,150,150,0.54);
 }
+
+p {
+    text-align: justify;
+}
