@@ -69,9 +69,9 @@ p {
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
-        text-align: justify;
 }
-#aboutme {
+
+p {
     /* border: 1px solid #FFF; */
     padding: 10px;
     text-align: left;
