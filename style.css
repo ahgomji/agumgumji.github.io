@@ -71,3 +71,12 @@ p {
     -webkit-margin-end: 0px;
         text-align: justify;
 }
+#aboutme {
+    /* border: 1px solid #FFF; */
+    padding: 10px;
+    text-align: left;
+    margin-top: 10px;
+    /* margin-left: 450px; */
+    margin-right: 450px;
+    background-color: rgba(150,150,150,0.54);
+}
