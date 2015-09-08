@@ -32,7 +32,7 @@
 
 button {
     color: white;
-    background-color: 00a4ca;
+    background-color: #00a4ca;
     border: none;
     border-radius: 6px;
     padding: 17px;
@@ -40,6 +40,24 @@ button {
     padding: 15px 62px;
 }
  
+ .tint {
+    position: relative;
+    float: center;
+    height: 400px;
+    cursor: pointer;
+}
+
+.tint:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -50px;
+    right: -50px;
+    background: rgba(0,0,0, 0.5);
+}
+
 </style>
 
 <h1>Extra Credit</h1>
