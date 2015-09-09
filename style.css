@@ -72,11 +72,12 @@ p {
 }
 
 p {
-    border: 1px solid #FFF; 
+    border: 10px solid #FFF; 
     padding: 10px;
     margin-top: 10px;
      margin-left: 450px; 
     margin-right: 450px;
+    font-size:30px;
 }
 
 section {
