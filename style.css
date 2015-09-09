@@ -133,14 +133,14 @@ video {
 }
 
 .video {
-   width: 60%;
-height: 800px;
+   width: 560px;
+height: 315px;
 margin:0 auto;
 display:block;
 }
 
 iframe {
-   width: 560px;
+   width:34% ;
 height: 315px;
 margin:0 auto;
 display:block;
