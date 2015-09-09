@@ -2,7 +2,7 @@
    body {
     background-color: wheat;
     color:grey;
-    font-family:  font-family: 'Bree Serif', serif;
+    font-family: 'Bree Serif', serif;
     background-image: url(http://www.chapwoodinvestments.com/wp-content/uploads/2013/04/Chapwood-website-background-1.jpg);
     background-size: cover;
    margin: auto;
@@ -14,7 +14,7 @@
   
    h1 {
     color:darkred;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Bitter', serif;
     font-size:60px;
     text-decoration:underline;
    }
