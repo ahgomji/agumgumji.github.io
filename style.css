@@ -131,10 +131,16 @@ video {
    
 }
 
-iframe {
-   width: 33%;
+iframe .video{
+   width: 60%;
 height: 800px;
 margin:0 auto;
 display:block;
 }
 
+iframe {
+   width: 34%;
+height: 800px;
+margin:0 auto;
+display:block;
+}
