@@ -14,9 +14,9 @@
   
    h1 {
     color:darkred;
-    /*font-family: 'Bitter', serif;**/
+    font-family: 'Bitter', serif;
     font-size:60px;
-    text-decoration:underline;
+    text-decoration:none;
     text-transform:uppercase;
    }
    
