@@ -154,7 +154,7 @@ display:block;
     display: block;
 }
 
-.snapwidget-widget iframe {
+.snapwidget-widget {
    allowTransparency="true" 
    frameborder="0" 
    scrolling="no" 
