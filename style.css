@@ -153,4 +153,13 @@ display:block;
     margin: 0px auto;
     display: block;
 }
+
+.snapwidget-widget iframe {
+   allowTransparency="true" 
+   frameborder="0" 
+   scrolling="no" 
+   style="border:none; 
+   overflow:hidden; 
+   width:333px; 
+   height:333px
 }
