@@ -20,20 +20,20 @@ top:100px;
 }
 .jumbotron h1 {
 color: #fff;
-font-size: 48px;
+font-size: 52px;
 font-family: 'Shift', sans-serif;
 font-weight: bold;
 }
 .jumbotron p {
-font-size: 20px;
+font-size: 18px;
 color: #fff;
 }
 .learn-more {
 background-color: #f7f7f7;
 }
 .learn-more h3 {
-font-family: 'Shift', sans-serif;
-font-size: 18px;
+font-family: 'Lora', serif;
+font-size: 26px;
 font-weight: bold;
 }
 .learn-more a {
